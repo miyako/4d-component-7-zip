@@ -1,0 +1,18 @@
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:Documents:Developer:4d_keisuke:7-Zip.4dbase:7-Zip[0001].4BK
+Scheduled : 10.11.23 13:51:09
+Starting : 10.11.23 13:51:09
+Ending : 10.11.23 13:51:09
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:Documents:Developer:4d_keisuke:COMPONENTS:7-Zip.4dbase:7-Zip[0001].4BK
+Scheduled : 11.01.02 10:38:50
+Starting : 11.01.02 10:38:50
+Ending : 11.01.02 10:38:50
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:Documents:4D:Plugins:public:4d_keisuke:COMPONENTS:7-Zip.4dbase:7-Zip[0001].4BK
+Scheduled : 11.05.18 00:01:22
+Starting : 11.05.18 00:01:22
+Ending : 11.05.18 00:01:23
+
