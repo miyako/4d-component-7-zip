@@ -10,7 +10,7 @@
   * ARM: `17.04.arm64_big_sur`
   * x68_64: `17.04.catalina`
 
-see [here] on the difference between `7z`, `7a` and `7zr`. the component uses `7za`, the statically linked full version.
+see [here] on the difference between `7z`, `7a` and `7zr`. the component uses `7za`, the standalone version which supports fewer formats than `7z`.
 
 #### Notes
 
