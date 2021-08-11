@@ -10,6 +10,8 @@
   * ARM: `17.04.arm64_big_sur`
   * x68_64: `17.04.catalina`
 
+see [here] on the difference between `7z`, `7a` and `7zr`. the component uses `7za`, the statically linked full version.
+
 #### Notes
 
 To download a homebrew bottle (binary) for M1 on an Intel Catalina
