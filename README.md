@@ -7,10 +7,14 @@
 
 * macOS
 
-  * ARM: `17.04.arm64_big_sur`
-  * x68_64: `17.04.catalina`
+  * ARM: `17.04.arm64_big_sur` bottle from homebrew
+  * x68_64: `17.04.catalina` bottle from homebrew
 
 see [here](https://wiki.archlinux.org/title/p7zip#Differences_between_7z,_7za_and_7zr_binaries) on the difference between `7z`, `7a` and `7zr`. the component uses `7za`, the standalone version which supports fewer codecs than `7z`. the main objective for this component is to process .7z files.
+
+* Windows
+ 
+ * z86_64: `19.00` from [7-zip.org](https://www.7-zip.org/download.html)
 
 #### Notes
 
