@@ -10,7 +10,7 @@
   * ARM: `17.04.arm64_big_sur`
   * x68_64: `17.04.catalina`
 
-see [here](https://wiki.archlinux.org/title/p7zip#Differences_between_7z,_7za_and_7zr_binaries) on the difference between `7z`, `7a` and `7zr`. the component uses `7za`, the standalone version which supports fewer codec than `7z`.
+see [here](https://wiki.archlinux.org/title/p7zip#Differences_between_7z,_7za_and_7zr_binaries) on the difference between `7z`, `7a` and `7zr`. the component uses `7za`, the standalone version which supports fewer codecs than `7z`. the main objective for this component is to process .7z files.
 
 #### Notes
 
