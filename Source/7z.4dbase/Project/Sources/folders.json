@@ -1,0 +1,42 @@
+{
+	"(デフォルトテーブル)": {},
+	"(デフォルトフォーム)": {},
+	"(デフォルトフォルダ)": {
+		"groups": [
+			"(デフォルトテーブル)",
+			"(デフォルトフォーム)",
+			"(デフォルトプロジェクトメソッド)"
+		]
+	},
+	"(デフォルトプロジェクトメソッド)": {},
+	"7-Zip": {
+		"groups": [
+			"private",
+			"public"
+		]
+	},
+	"LEP": {
+		"methods": [
+			"LEP_Escape",
+			"LEP_Escape_path"
+		]
+	},
+	"private": {
+		"methods": [
+			"z7_Get_path"
+		]
+	},
+	"public": {
+		"methods": [
+			"z7_Archive",
+			"z7_Execute",
+			"z7_Extract",
+			"z7_Get_version"
+		]
+	},
+	"trash": {
+		"groups": [
+			"(デフォルトフォルダ)"
+		]
+	}
+}

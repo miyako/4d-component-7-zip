@@ -1,0 +1,41 @@
+{
+	"map": [
+		{
+			"id": 2147483647,
+			"path": "Sources/Methods/LEP_Escape_path.4dm"
+		},
+		{
+			"id": 2147483646,
+			"path": "Sources/Methods/LEP_Escape.4dm"
+		},
+		{
+			"id": 2147483645,
+			"path": "Sources/Methods/z7_Archive.4dm"
+		},
+		{
+			"id": 2147483644,
+			"path": "Sources/Methods/z7_Extract.4dm"
+		},
+		{
+			"id": 2147483643,
+			"path": "Sources/Methods/_sample.4dm"
+		},
+		{
+			"id": 2147483642,
+			"path": "Sources/Methods/z7_Get_version.4dm"
+		},
+		{
+			"id": 2147483641,
+			"path": "Sources/Methods/z7_Get_path.4dm"
+		},
+		{
+			"id": 2147483640,
+			"path": "Sources/Methods/z7_Execute.4dm"
+		}
+	],
+	"targets": {
+		"x86_64_generic": true,
+		"arm64_macOS_lib": true
+	},
+	"arch64": true
+}

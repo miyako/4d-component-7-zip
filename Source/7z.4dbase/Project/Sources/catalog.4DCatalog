@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE base SYSTEM "http://www.4d.com/dtd/2007/base.dtd" >
+<base name="7zのコピー" uuid="E592947D6901447ABD1FCCD14A14872B" collation_locale="ja">
+	<schema name="DEFAULT_SCHEMA"/>
+	<base_extra package_name="7z" structure_file_name="7zのコピー" data_file_path=":7z.4DD" __stringCompHash="icu:68.1.0, alternate=search" __keywordBuildingHash="mecab:0.996;sys.dic:102;">
+		<temp_folder folder_selector="data"/>
+		<journal_file journal_file_enabled="false"/>
+	</base_extra>
+</base>

@@ -1,0 +1,74 @@
+{
+	"Sources/Methods/_sample.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 17,
+		"lastSelectedLine": 17,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-08-11T03:40:21.913Z"
+	},
+	"Sources/Methods/z7_Archive.4dm": {
+		"startSelection": 47,
+		"endSelection": 47,
+		"firstSelectedLine": 15,
+		"lastSelectedLine": 15,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-08-11T03:40:21.914Z"
+	},
+	"Sources/Methods/z7_Extract.4dm": {
+		"startSelection": 4,
+		"endSelection": 14,
+		"firstSelectedLine": 25,
+		"lastSelectedLine": 25,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-08-11T03:40:21.914Z"
+	},
+	"Sources/Methods/LEP_Escape.4dm": {
+		"startSelection": 10,
+		"endSelection": 10,
+		"firstSelectedLine": 48,
+		"lastSelectedLine": 48,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-08-11T03:40:21.915Z"
+	},
+	"Sources/Methods/LEP_Escape_path.4dm": {
+		"startSelection": 9,
+		"endSelection": 9,
+		"firstSelectedLine": 23,
+		"lastSelectedLine": 23,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-08-11T03:40:21.915Z"
+	},
+	"Sources/Methods/z7_Get_path.4dm": {
+		"startSelection": 27,
+		"endSelection": 27,
+		"firstSelectedLine": 29,
+		"lastSelectedLine": 29,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-08-11T03:40:21.915Z"
+	},
+	"Sources/Methods/z7_Get_version.4dm": {
+		"startSelection": 28,
+		"endSelection": 28,
+		"firstSelectedLine": 13,
+		"lastSelectedLine": 13,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-08-11T03:40:21.916Z"
+	},
+	"Sources/Methods/z7_Execute.4dm": {
+		"startSelection": 32,
+		"endSelection": 32,
+		"firstSelectedLine": 21,
+		"lastSelectedLine": 21,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-08-11T03:40:21.916Z"
+	}
+}

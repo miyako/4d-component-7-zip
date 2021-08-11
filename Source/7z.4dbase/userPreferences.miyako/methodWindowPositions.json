@@ -1,0 +1,50 @@
+{
+	"Sources/Methods/_sample.4dm": {
+		"left": 442,
+		"top": 129,
+		"width": 950,
+		"height": 713
+	},
+	"Sources/Methods/z7_Archive.4dm": {
+		"left": 191,
+		"top": 103,
+		"width": 1137,
+		"height": 720
+	},
+	"Sources/Methods/z7_Extract.4dm": {
+		"left": 203,
+		"top": 103,
+		"width": 826,
+		"height": 621
+	},
+	"Sources/Methods/LEP_Escape.4dm": {
+		"left": 173,
+		"top": 103,
+		"width": 736,
+		"height": 596
+	},
+	"Sources/Methods/LEP_Escape_path.4dm": {
+		"left": 426,
+		"top": 103,
+		"width": 861,
+		"height": 655
+	},
+	"Sources/Methods/z7_Get_path.4dm": {
+		"left": 433,
+		"top": 259,
+		"width": 999,
+		"height": 755
+	},
+	"Sources/Methods/z7_Get_version.4dm": {
+		"left": 658,
+		"top": 163,
+		"width": 861,
+		"height": 655
+	},
+	"Sources/Methods/z7_Execute.4dm": {
+		"left": 297,
+		"top": 103,
+		"width": 1168,
+		"height": 731
+	}
+}

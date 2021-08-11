@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><preferences stamp="9">
+	<com.4d>
+		<database>
+			<cache flush_buffer_delay="1" size_fixed="32" size_maximum="1000"/>
+			<misc standard_xpath="false"/></database>
+		<web>
+			<standalone_server>
+				<configuration automatic_session_management="true" listening_address="0.0.0.0" port_number="8080" session_mode="2"/>
+				<log>
+					<backup daily="" hourly="" monthly="" size="0" weekly=""/></log>
+				<options>
+					<web_processes timeout_for_inactives="5"/>
+					<cache use_4d_web_cache="false"/>
+					<filters allow_4dsync_urls="true"/></options></standalone_server>
+			<remote>
+				<configuration allow_ssl="false" automatic_session_management="true" listening_address="0.0.0.0" session_mode="2"/>
+				<options>
+					<web_processes timeout_for_inactives="5"/>
+					<cache use_4d_web_cache="false"/>
+					<filters allow_4dsync_urls="true"/></options></remote></web>
+		<compiler>
+			<typage default_for_button="2" default_for_numeric="1"/>
+			<options fat_binary="true" target="all"/></compiler>
+		<general>
+			<mover always_display_dialog="2"/></general>
+		<server>
+			<network>
+				<options publication_name="7-Zip" use_legacy_network_layer="true"/>
+				<client_server use_encryption="false"/></network>
+			<misc open_admin_window_at_startup="true"/></server>
+		<deployment>
+			<options/></deployment></com.4d></preferences>
