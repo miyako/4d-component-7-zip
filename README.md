@@ -14,7 +14,7 @@ see [here](https://wiki.archlinux.org/title/p7zip#Differences_between_7z,_7za_an
 
 * Windows
  
- * z86_64: `19.00` from [7-zip.org](https://www.7-zip.org/download.html)
+  * z86_64: `19.00` from [7-zip.org](https://www.7-zip.org/download.html)
 
 #### Notes
 
