@@ -4,7 +4,6 @@ void proc_LEP__ESCAPE__PATH( Asm4d_globals *glob, tProcessGlobals *ctx, int32_t 
 {
 	CallChain c(ctx,D_proc_LEP__ESCAPE__PATH);
 	if (!ctx->doingAbort) try {
-		Long lplatform;
 		Txt lpath;
 		new ( outResult) Txt();
 		{
@@ -14,36 +13,39 @@ void proc_LEP__ESCAPE__PATH( Asm4d_globals *glob, tProcessGlobals *ctx, int32_t 
 		}
 		lpath=Parm<Txt>(inParams,inNbParam,1).get();
 		{
-			Ref t2;
-			t2.setLocalRef(ctx,lplatform.cv());
-			c.f.fLine=9;
-			if (g->Call(ctx,(PCV[]){nullptr,t2.cv()},1,365)) goto _0;
-			g->Check(ctx);
+			Bool t2;
+			c.f.fLine=8;
+			if (g->Call(ctx,(PCV[]){t2.cv()},0,1573)) goto _0;
+			if (!(t2.get())) goto _4;
 		}
-		if (3!=lplatform.get()) goto _4;
 		{
+			Txt t3;
+			t3=lpath.get();
 			Txt t4;
-			t4=lpath.get();
-			Txt t5;
-			c.f.fLine=14;
-			proc_LEP__ESCAPE(glob,ctx,1,1,(PCV[]){t4.cv()},t5.cv());
+			c.f.fLine=10;
+			proc_LEP__ESCAPE(glob,ctx,1,1,(PCV[]){t3.cv()},t4.cv());
 			if (ctx->checkPendingErrors) g->CheckErr(ctx,0);
 			if (ctx->doingAbort) goto _0;
-			lpath=t5.get();
+			lpath=t4.get();
 		}
 		goto _3;
 _4:
-		if (2!=lplatform.get()) goto _5;
 		{
-			Txt t7;
-			c.f.fLine=18;
-			if (g->Call(ctx,(PCV[]){t7.cv(),lpath.cv()},1,1106)) goto _0;
+			Bool t5;
+			c.f.fLine=12;
+			if (g->Call(ctx,(PCV[]){t5.cv()},0,1572)) goto _0;
+			if (!(t5.get())) goto _5;
+		}
+		{
+			Txt t6;
+			c.f.fLine=14;
+			if (g->Call(ctx,(PCV[]){t6.cv(),lpath.cv()},1,1106)) goto _0;
 			g->Check(ctx);
-			Txt t8;
-			proc_LEP__ESCAPE(glob,ctx,1,1,(PCV[]){t7.cv()},t8.cv());
+			Txt t7;
+			proc_LEP__ESCAPE(glob,ctx,1,1,(PCV[]){t6.cv()},t7.cv());
 			if (ctx->checkPendingErrors) g->CheckErr(ctx,0);
 			if (ctx->doingAbort) goto _0;
-			lpath=t8.get();
+			lpath=t7.get();
 		}
 		goto _3;
 _5:
