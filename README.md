@@ -1,5 +1,8 @@
-4d-component-7-zip
-==================
+![deprecated](https://img.shields.io/badge/-deprecated-inactive)
+
+use [miyako/4d-class-sevenzip](https://github.com/miyako/4d-class-sevenzip)
+
+# 4d-component-7-zip
 
 4D wrapper component to call the 7-zip program
 
